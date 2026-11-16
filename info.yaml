@@ -9,10 +9,10 @@ tagline: The answer is 42
 # Your email, if you so wish
 email: anon@anon.com
 # Your github site, usually <github username>.github.io
-url: analogicus.github.io
+url: analogicus.github.io/rey_gr07_sky130a/
 doc:
   # Make docs
-  #libraries:
-  #   <library>:
-  #       - <cell>
-  #       - <cell>
+  libraries:
+    REY_GR07_SKY130A:
+      - tt_um_rey_gr07_analogicus
+      - REY_GR07
